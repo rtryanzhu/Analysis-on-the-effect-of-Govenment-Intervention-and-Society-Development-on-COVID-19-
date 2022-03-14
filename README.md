@@ -1,5 +1,7 @@
 # STA207FinalProject
-Repository for the Final Project of STA 207.
+Repository for the Final Project of STA 207, WQ 2022, UC Davis.
+
+This report tends to analysis the influence of government intervention, measured by SI, and the comprehensive society background, measured by HDI, on the fatality due to COVID-19 in 2021.
 
 The _finalProject.rmd_ is the .rmd file that include all necessary codes and analysis.
 
